@@ -9,5 +9,6 @@ use `!` for commands
 ## other simple commands include: 
  * `!repeat [int] "message"`
  * `!ar` shows assault rifel stats
- * `!sniper` shows sniper stats
- **outdated stuff since fortnite updates** :C
+ * `!sniper` shows sniper stats  
+ **outdated stuff since fortnite updates** :C  
+ many other commands are available, very easy to see if you look into the code :D
