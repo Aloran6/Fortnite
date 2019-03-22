@@ -1,7 +1,7 @@
 # Fortnite
 
 A Discord Bot that displays some Fortnite and Blade and Soul stats as well as provide basic math functions.
-All stastics are obtained by web scrapping.
+All statistics are obtained by web scrapping.
 
 
 # Command Usage:
